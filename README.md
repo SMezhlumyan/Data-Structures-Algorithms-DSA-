@@ -5,7 +5,6 @@ This repository contains implementations of various data structures and algorith
 It includes basic data structures, graph algorithms, sorting methods, tree implementations, and solutions to classical problems.
 =======
 It includes basic data structures, graph algorithms, sorting methods, tree implementations, and classic problem solutions.
->>>>>>> 31f0234 (Update README)
 
 ## Structure
 
@@ -21,7 +20,6 @@ It includes basic data structures, graph algorithms, sorting methods, tree imple
 - Trees — Tree implementations
 - Knapsack.cpp — Knapsack problem
 - Knight's.cpp — Knight’s Tour problem
->>>>>>> 31f0234 (Update README)
 
 ## Usage
 
