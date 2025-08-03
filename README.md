@@ -1,25 +1,16 @@
 # Data-Structures-Algorithms-DSA-
 
 This repository contains implementations of various data structures and algorithms in C++.  
-<<<<<<< HEAD
-It includes basic data structures, graph algorithms, sorting methods, tree implementations, and solutions to classical problems.
-=======
 It includes basic data structures, graph algorithms, sorting methods, tree implementations, and classic problem solutions.
 
 ## Structure
 
-- DS — Basic data structures
-- Graph — Graph algorithms and helpers
-<<<<<<< HEAD
-- Sorting — Sorting algorithms and related utilities
-- Trees — Balanced and search tree implementations
-- Knapsack.cpp — Knapsack optimization problem
-- Knight's.cpp — Knight’s Tour / chessboard backtracking problem
-=======
-- Sorting — Sorting algorithms and utilities
-- Trees — Tree implementations
-- Knapsack.cpp — Knapsack problem
-- Knight's.cpp — Knight’s Tour problem
+- DS — Basic data structures  
+- Graph — Graph algorithms and helpers  
+- Sorting — Sorting algorithms and utilities  
+- Trees — Tree implementations  
+- Knapsack.cpp — Knapsack problem  
+- Knight's.cpp — Knight’s Tour problem  
 
 ## Usage
 
